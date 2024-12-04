@@ -22,7 +22,7 @@ El objetivo principal es crear una aplicación web intuitiva y accesible que per
 - Clari y Mari Marenco - Diseño UX/UI
 
 ## **Estructura del Proyecto**
-      ```bash
+      
       GT-PodcastParty/
       ├── client/        # Frontend de la aplicación (React, Vite)
       ├── server/        # Backend de la aplicación (Node.js, Express.js)
