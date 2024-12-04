@@ -64,5 +64,5 @@ El objetivo principal es crear una aplicación web intuitiva y accesible que per
    ```bash
    npm start
 
-### Realizado para Web Reactiva -> !Gracias¡
+### Realizado para Web Reactiva - ¡Gracias!
 
