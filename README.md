@@ -22,13 +22,13 @@ El objetivo principal es crear una aplicación web intuitiva y accesible que per
 - Clari y Mari Marenco - Diseño UX/UI
 
 ## **Estructura del Proyecto**
-GT-PodcastParty/
-├── client/        # Frontend de la aplicación (React, Vite)
-├── server/        # Backend de la aplicación (Node.js, Express.js)
-├── .env           # Variables de entorno
-├── package.json   # Dependencias del proyecto
-├── README.md      # Documentación del proyecto
-└── .gitignore     # Archivos y carpetas ignorados por Git
+   GT-PodcastParty/
+   ├── client/        # Frontend de la aplicación (React, Vite)
+   ├── server/        # Backend de la aplicación (Node.js, Express.js)
+   ├── .env           # Variables de entorno
+   ├── package.json   # Dependencias del proyecto
+   ├── README.md      # Documentación del proyecto
+   └── .gitignore     # Archivos y carpetas ignorados por Git
 
 ## **Requisitos Previos**
 
@@ -45,18 +45,19 @@ GT-PodcastParty/
    cd GT-PodcastParty
 2. Configura las variables de entorno para client y server .env
 3. Instala las dependencias en cada carpeta:
-# En la carpeta raíz
-cd client
-npm install
+- En la carpeta raíz
+   cd client
+   npm install
 
-cd ../server
-npm install
+- cd ../server
+   npm install
+
 4. Ejecuta el proyecto en modo desarrollo:
-# En la carpeta del cliente
-npm run dev
+- En la carpeta del cliente
+   npm run dev
 
-# En la carpeta del servidor
-npm start
+- En la carpeta del servidor
+   npm start
 
 ### Realizado para Web Reactiva -> !Gracias¡
 
